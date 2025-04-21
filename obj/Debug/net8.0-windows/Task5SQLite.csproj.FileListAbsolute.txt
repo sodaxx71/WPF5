@@ -1,0 +1,372 @@
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Task5SQLite.exe
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Task5SQLite.deps.json
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Task5SQLite.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\App.baml
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.g.resources
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQL.B7056E5C.Up2Date
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\refint\Task5SQLite.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\Task5SQLite.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\ref\Task5SQLite.dll
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\View\InfoWindow.g.cs
+C:\Users\Пользователь\Desktop\Task5SQLite\obj\Debug\net8.0-windows\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.exe
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.deps.json
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.runtimeconfig.json
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\View\InfoWindow.g.cs
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.cache
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.lref
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\App.baml
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.g.resources
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQL.B7056E5C.Up2Date
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\refint\Task5SQLite.dll
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.genruntimeconfig.cache
+C:\Users\Daniil\Desktop\danito\Kolbason5\obj\Debug\net8.0-windows\ref\Task5SQLite.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.exe
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.deps.json
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.runtimeconfig.json
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Task5SQLite.pdb
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Castle.Core.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\danito\Kolbason5\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.csproj.AssemblyReference.cache
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\View\InfoWindow.g.cs
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\App.g.cs
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.cache
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.lref
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\App.baml
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\View\InfoWindow.baml
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\View\MainWindow.baml
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.g.resources
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.GeneratedMSBuildEditorConfig.editorconfig
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfoInputs.cache
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfo.cs
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.csproj.CoreCompileInputs.cache
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQL.B7056E5C.Up2Date
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.dll
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\refint\Task5SQLite.dll
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.pdb
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\Task5SQLite.genruntimeconfig.cache
+E:\danito\Kolbason5\obj\Debug\net8.0-windows\ref\Task5SQLite.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.exe
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.deps.json
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.runtimeconfig.json
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\View\InfoWindow.g.cs
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\App.baml
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.g.resources
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.sourcelink.json
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQL.B7056E5C.Up2Date
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\refint\Task5SQLite.dll
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.genruntimeconfig.cache
+C:\Users\Daniil\Desktop\Task5-OOP\obj\Debug\net8.0-windows\ref\Task5SQLite.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.exe
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.deps.json
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.runtimeconfig.json
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\View\InfoWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.cache
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite_MarkupCompile.lref
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\App.baml
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.g.resources
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.sourcelink.json
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQL.B7056E5C.Up2Date
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\refint\Task5SQLite.dll
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.pdb
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\Task5SQLite.genruntimeconfig.cache
+C:\Users\Daniil\Desktop\moto oop\Task5-OOP\obj\Debug\net8.0-windows\ref\Task5SQLite.dll
